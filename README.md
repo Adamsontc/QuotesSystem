@@ -8,15 +8,14 @@ Below is an open sourced image of space that we may be using for our group porje
 
 ![Space](Users/tristanadamson/Desktop/Space.jpeg)
 
-During this class we will also be learning about a language called typescript which is a close relative to the language JavaScript. For example, Here is how you would print "Hello World" in both languages: 
+During this class we will also be learning about a language called typescript which is a close relative to the language JavaScript and Java. For example, Here is how you would print "Hello World" in both languages: 
 
 **JavaScript**
 
 ```Console.log("Hello World");```
 
-**TypeScript**
+**Java**
 
-```let hello: string = "Hello World"
-console.log(hello)```
+```System.out.println("Hello World");'''
 
 To learn more about Hiram College and its Computer Science Program, Visit [Computer Science Website](https://cpsc.hiram.edu).
