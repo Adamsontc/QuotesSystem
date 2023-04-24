@@ -16,7 +16,7 @@ During this class we will also be learning about a language called typescript wh
 
 **TypeScript**
 
-```let hello: string = "Hello World";
+```let hello: string = "Hello World"
 console.log(hello)```
 
 To learn more about Hiram College and its Computer Science Program, Visit [Computer Science Website](https://cpsc.hiram.edu).
