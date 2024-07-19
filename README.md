@@ -2,7 +2,7 @@
 
 ### Tristan Adamson
 
-In this project, I just added a couple of quotes to a text file through the terminal to work on learning the ins and outs of Git and GitHub and how these two version control softwares can interact. This project is also to get used to learnig markdown and how it can be used within GitHub to display a nice summary of the project.
+In this project, I just added a couple of quotes to a text file through the terminal to work on learning the ins and outs of Git and GitHub and how these two version control softwares can interact. This project is also to get used to learning markdown and how it can be used within GitHub to display a nice summary of the project.
 
 Below is an open sourced image of space that we may be using for our group porject video game in our 3-week Designing and Building computer games class.
 
